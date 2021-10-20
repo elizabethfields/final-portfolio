@@ -1,1 +1,2 @@
-# final-portfolio
+## Final Portfolio
+This is a prototype for my portfolio website. Still a work in progress...
